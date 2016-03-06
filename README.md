@@ -1,1 +1,3 @@
-# tensors
+# YTensors
+
+Yet another tensors library
